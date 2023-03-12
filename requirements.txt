@@ -1,1 +1,2 @@
-matplotlib
+matplotlib as plt
+pandas as pd
