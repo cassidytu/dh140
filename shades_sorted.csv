@@ -1,37 +1,37 @@
-brand,darkest,lightest,group
-Maybelline,16,91,2
-bareMinerals,35,85,2
-Estée Lauder,27,89,2
-Revlon,47,85,2
-L’Oréal,19,90,2
-Covergirl + Olay,75,90,2
-Fenty,25,94,3
-Iman,27,80,3
-Beauty Bakerie,22,94,3
-Black Up,16,86,3
-Black Opal,23,65,3
-Laws of Nature,11,78,3
-Lancôme,14,95,4
-MAC,36,90,4
-Bobbi Brown,28,90,4
-Make Up For Ever,31,92,1
-Hegai and Ester,38,80,5
-House of Tara,23,59,5
-Trim & Prissy,39,87,5
-Elsas Pro,36,74,5
-Kuddy,54,72,5
-RMK,58,90,6
-Addiction,60,90,6
-Shu Uemera,59,89,6
-Shiseido,65,79,6
-Kate,61,88,6
-IPSA,75,84,6
-Dior,73,83,6
-NARS,62,88,6
-Lakmé,62,75,7
-Colorbar,69,82,7
-Bharat & Doris,68,83,7
-Olivia,54,72,7
-Blue Heaven,77,78,7
-Lotus Herbals,67,82,7
-Nykaa,65,83,7
+brand,darkest,lightest,group,gcolor
+Maybelline,16,91,2,b
+bareMinerals,35,85,2,b
+Estée Lauder,27,89,2,b
+Revlon,47,85,2,b
+L’Oréal,19,90,2,b
+Covergirl + Olay,75,90,2,b
+Fenty,25,94,3,g
+Iman,27,80,3,g
+Beauty Bakerie,22,94,3,g
+Black Up,16,86,3,g
+Black Opal,23,65,3,g
+Laws of Nature,11,78,3,g
+Lancôme,14,95,4,r
+MAC,36,90,4,r
+Bobbi Brown,28,90,4,r
+Make Up For Ever,31,92,1,y
+Hegai and Ester,38,80,5,m
+House of Tara,23,59,5,m
+Trim & Prissy,39,87,5,m
+Elsas Pro,36,74,5,m
+Kuddy,54,72,5,m
+RMK,58,90,6,p
+Addiction,60,90,6,p
+Shu Uemera,59,89,6,p
+Shiseido,65,79,6,p
+Kate,61,88,6,p
+IPSA,75,84,6,p
+Dior,73,83,6,p
+NARS,62,88,6,p
+Lakmé,62,75,7,c
+Colorbar,69,82,7,c
+Bharat & Doris,68,83,7,c
+Olivia,54,72,7,c
+Blue Heaven,77,78,7,c
+Lotus Herbals,67,82,7,c
+Nykaa,65,83,7,c
